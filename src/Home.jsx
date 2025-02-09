@@ -3,7 +3,15 @@
 function Home() {
   return (
     <div>
-      <h1>Home Page</h1>
+        <div>
+            <h1>Stitch Tally</h1>
+        </div>
+        <div>
+            <h2>Add a Counter</h2>
+        </div>
+        <div>
+           <h2>Your Counters</h2>
+        </div>
     </div>
   );
 }
